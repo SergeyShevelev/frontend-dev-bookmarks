@@ -913,6 +913,7 @@
     + [Metro User Interface Implementation and Resources](http://www.queness.com/post/13493/metro-user-interface-implementation-and-resources)
     + [Windows-8-like animations with CSS3 and jQuery](http://sarasoueidan.com/blog/windows8-animations): a demo made by Sara Soueidan about creating a Modern UI design like in Windows 8.
 + Video & Audio
+    + [Videogular](http://www.videogular.com/): Free and opensource HTML5 videoplayer for AngularJS. Theamable, API and plugins. Works on mobile devices.
     + [SublimeVideo](http://sublimevideo.net/): Modular Video Player Framework.
     + [Video.js](http://www.videojs.com/): The open source HTML5 video player.
     + [FlowPlayer](http://flowplayer.org/): The video player for the web.
