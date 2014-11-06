@@ -362,6 +362,7 @@
             + [Responsive Data Tables](http://css-tricks.com/responsive-data-tables/)
             + [stacktable.js](http://johnpolacek.github.com/stacktable.js/)
             + [FooTable](http://themergency.com/footable/)
+            + [Dynatable](http://www.dynatable.com/): HTML5+JSON interactive table plugin.Dynatable is a funner, semantic, interactive table plugin using jQuery, HTML5, and JSON. And it's not just for tables.
         + Events
             + [Breakpoints.js](http://xoxco.com/projects/code/breakpoints/)
             + [Harvey.js](http://harvesthq.github.com/harvey/)
@@ -754,6 +755,8 @@
     + [Behave.js](http://jakiestfu.github.io/Behave.js/) is a lightweight library for adding IDE style behaviors to plain text areas, making it much more enjoyable to write code in.
 + Refactoring
     + [Refactoring JavaScript with kratko.js](http://perfectionkills.com/refactoring-javascript-with-kratko-js/)
++ Mockups & Wireframing
+    + [Holder.js](http://imsky.github.io/holder/): Holder renders image placeholders entirely in browser. It generates img by script.
 + Performance
     + General Information
         + [Video: DOM, HTML5, & CSS3 Performance](http://paulirish.com/2011/dom-html5-css3-performance/) by Paul Irish
@@ -898,6 +901,7 @@
     + [Using JSDoc](http://usejsdoc.org/)
     + [Beautiful docs](http://beautifuldocs.com/) is a documentation viewer based on markdown files.
     + [Daux.io](http://daux.io/) is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly.
+    + [GitBook](https://www.gitbook.io/): 
 + Windows 8 Style
     + [Metro UI CSS](http://metroui.org.ua/)
     + [BootMetro](http://aozora.github.com/bootmetro/)
@@ -1004,6 +1008,8 @@
     + [CollagePlus](http://ed-lea.github.io/jquery-collagePlus/): This plugin for jQuery will arrange your images to fit exactly within a container.
     + [Masonry](http://masonry.desandro.com/)  JavaScript Cascading grid layout library
     + [MixItUp](https://mixitup.kunkalabs.com/) jQuery plugin providing animated filtering and sorting.
++ Drag & Drop
+    + [Sortable.js](http://rubaxa.github.io/Sortable/): The JavaScript D&D library for modern browsers and touch devices. No jQuery.
 + Jobs & Hiring
     + [GitHub Jobs](https://jobs.github.com/)
     + [Authentic Jobs](http://www.authenticjobs.com/)
