@@ -552,6 +552,7 @@
     + [Approach](http://srobbin.com/jquery-plugins/approach/)
     + [Magic](https://github.com/miniMAC/magic) is a CSS3 framework with many animations, it's simple to use and many animations are cross-browser compatible.
     + [Walkway.js](https://github.com/ConnorAtherton/walkway) An easy way to animate simple SVG elements.
+    + [Vivus](http://maxwellito.github.io/vivus/) Vivus is a lightweight JavaScript class (with no dependencies) that allows you to animate SVGs, giving them the appearence of being drawn. There are a variety of different animations available, as well as the option to create a custom script to draw your SVG in whatever way you like.
 + Widgets
     + Kits
         + [AlloyUI](http://liferay.github.com/alloyui.com/)
