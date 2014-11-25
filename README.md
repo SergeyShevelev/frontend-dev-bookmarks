@@ -1012,6 +1012,7 @@
     + [MixItUp](https://mixitup.kunkalabs.com/) jQuery plugin providing animated filtering and sorting.
 + Drag & Drop
     + [Sortable.js](http://rubaxa.github.io/Sortable/): The JavaScript D&D library for modern browsers and touch devices. No jQuery.
+    + [Nice D&D script](http://tympanus.net/Development/DragDropInteractions/) 
 + Jobs & Hiring
     + [GitHub Jobs](https://jobs.github.com/)
     + [Authentic Jobs](http://www.authenticjobs.com/)
