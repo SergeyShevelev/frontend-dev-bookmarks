@@ -16,6 +16,8 @@
     + [Treehouse](http://teamtreehouse.com/): Learn HTML, CSS, iPhone apps and more.
     + [General Assembly Dash](https://dash.generalassemb.ly): Learn HTML, CSS, and Javascript through fun projects you do in your browser.
     + [Web Fundamentals](https://developers.google.com/web/fundamentals/) - Best practices for modern web development by Google
+    + [Egghead.io](https://egghead.io/)Video lessons on web technologies developement
+        + [Egghead.io - AngularJS](https://egghead.io/technologies/angularjs?order=ASC) AngularJS learning (+ advanced)
 + Architecture
     + [Web Components](http://w3c.github.io/webcomponents/explainer/): the component model for the Web.
     + [BEM](http://bem.info/): Methodology aimed at achieving fast to develop long-lived projects, team scalability, and code reuse.
